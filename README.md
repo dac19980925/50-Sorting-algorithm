@@ -1,5 +1,5 @@
 # 50-Sorting-algorithm
-为了一顿饭，50+排序算法的思路分析和python代码实现，列表来自bilibili用户robinbz的评论，https://www.bilibili.com/video/BV1bg4y1q7es
+为了一顿饭，50+排序算法的思路分析和python代码实现，列表来自bilibili用户robinbz的评论，https://www.bilibili.com/video/BV1bg4y1q7es， 争取全自己写，如果一些不会的看了别人的代码我会会贴参考的代码地址
 
 Exchange family
 
